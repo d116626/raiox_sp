@@ -1,0 +1,78 @@
+Nível,Indicador,2010,Unidade
+1,Sinopse,,
+1.1,Domicílios,,
+1.1.1,Coletivos,22629,domicílios
+1.1.1.1,Com morador,10484,domicílios
+1.1.1.2,Sem morador,12145,domicílios
+1.1.2,Particulares,,
+1.1.2.1,Ocupados,12838561,domicílios
+1.1.2.1.1,Com entrevista realizada,12608462,domicílios
+1.1.2.1.2,Sem entrevista realizada,230099,domicílios
+1.1.2.2,Não ocupados,2023618,domicílios
+1.1.2.2.1,Uso ocasional,901551,domicílios
+1.1.2.2.2,Vagos,1122067,domicílios
+1.1.3,Recenseados,14884808,domicílios
+1.2,População residente,41262199,pessoas
+1.2.1,Sexo,,
+1.2.1.1,Masculino,20077873,pessoas
+1.2.1.1.1,Grupo de idade,,
+1.2.1.1.1.1,Menos de 1 ano de idade,270906,pessoas
+1.2.1.1.1.2,1 a 4 anos de idade,1090710,pessoas
+1.2.1.1.1.3,5 a 9 anos,1457203,pessoas
+1.2.1.1.1.4,10 a 14 anos de idade,1687826,pessoas
+1.2.1.1.1.5,15 a 19 anos,1667482,pessoas
+1.2.1.1.1.6,20 a 24 anos,1835222,pessoas
+1.2.1.1.1.7,25 a 29 anos,1881495,pessoas
+1.2.1.1.1.8,30 a 34 anos,1741346,pessoas
+1.2.1.1.1.9,35 a 39 anos,1549270,pessoas
+1.2.1.1.1.10,40 a 44 anos,1444231,pessoas
+1.2.1.1.1.11,45 a 49 anos,1308852,pessoas
+1.2.1.1.1.12,50 a 54 anos,1149501,pessoas
+1.2.1.1.1.13,55 a 59 anos,930303,pessoas
+1.2.1.1.1.14,60 a 64 anos,705940,pessoas
+1.2.1.1.1.15,65 a 69 anos,499180,pessoas
+1.2.1.1.1.16,70 a 74 anos,371655,pessoas
+1.2.1.1.1.17,75 a 79 anos,246532,pessoas
+1.2.1.1.1.18,80 a 84 anos,150452,pessoas
+1.2.1.1.1.19,85 a 89 anos,63558,pessoas
+1.2.1.1.1.20,90 a 94 anos,20758,pessoas
+1.2.1.1.1.21,95 a 99 anos,4534,pessoas
+1.2.1.1.1.22,100 anos ou mais,917,pessoas
+1.2.1.1.2,Situação domiciliar,,
+1.2.1.1.2.1,Urbana,19166619,pessoas
+1.2.1.1.2.2,Rural,911254,pessoas
+1.2.1.2,Feminino,21184326,pessoas
+1.2.1.2.1,Grupo de idade,,
+1.2.1.2.1.1,Menos de 1 ano de idade,262265,pessoas
+1.2.1.2.1.2,1 a 4 anos de idade,1051491,pessoas
+1.2.1.2.1.3,5 a 9 anos,1403430,pessoas
+1.2.1.2.1.4,10 a 14 anos de idade,1637087,pessoas
+1.2.1.2.1.5,15 a 19 anos,1636426,pessoas
+1.2.1.2.1.6,20 a 24 anos,1802466,pessoas
+1.2.1.2.1.7,25 a 29 anos,1908293,pessoas
+1.2.1.2.1.8,30 a 34 anos,1815101,pessoas
+1.2.1.2.1.9,35 a 39 anos,1634852,pessoas
+1.2.1.2.1.10,40 a 44 anos,1536444,pessoas
+1.2.1.2.1.11,45 a 49 anos,1444270,pessoas
+1.2.1.2.1.12,50 a 54 anos,1286603,pessoas
+1.2.1.2.1.13,55 a 59 anos,1057688,pessoas
+1.2.1.2.1.14,60 a 64 anos,831069,pessoas
+1.2.1.2.1.15,65 a 69 anos,609906,pessoas
+1.2.1.2.1.16,70 a 74 anos,484550,pessoas
+1.2.1.2.1.17,75 a 79 anos,354796,pessoas
+1.2.1.2.1.18,80 a 84 anos,246113,pessoas
+1.2.1.2.1.19,85 a 89 anos,121030,pessoas
+1.2.1.2.1.20,90 a 94 anos,45806,pessoas
+1.2.1.2.1.21,95 a 99 anos,12323,pessoas
+1.2.1.2.1.22,100 anos ou mais,2317,pessoas
+1.2.1.2.2,Situação domiciliar,,
+1.2.1.2.2.1,Urbana,20418632,pessoas
+1.2.1.2.2.2,Rural,765694,pessoas
+1.2.2,Situação domiciliar,,
+1.2.2.1,Urbana,39585251,pessoas
+1.2.2.2,Rural,1676948,pessoas
+1.3,Média de moradores em domicílios particulares ocupados,3.20,moradores
+,,,
+,,,
+,,,
+Fonte: IBGE, Censo Demográfico 2010,,
