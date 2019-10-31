@@ -20,7 +20,7 @@
 
 
 ### Educação
-- 
+- [Dados Abertos da Educação de SP](https://dados.educacao.sp.gov.br/search/type/dataset)
 
 ### Saneamento
 - 
