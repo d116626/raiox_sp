@@ -12,7 +12,7 @@
 |         Deputados Estaduais        	|                               94                              	|
 |              Senadores             	| José Serra    (PSDB) </br> Major Olímpio (PSL) </br> Mara Gabrilli (PSDB) 	|
 
-### Demografia e Econômia:
+### Demografia:
 
 |      Variavel     	|    Valor   	| Unidade        	| Posição 	| Fonte     	|
 |:-----------------:	|:----------:	|----------------	|---------	|-----------	|
@@ -23,8 +23,6 @@
 |  População Rural  	|   1676948  	| pessoas        	|         	| IBGE/2010 	|
 |     Densidade     	|   184.99   	| habitantes/km² 	| 3       	|           	|
 | Frota de veículos 	|  29057749  	| veiculos       	| 1       	| IBGE/2018 	|
-|        PIB        	|   2224738  	| trilhoes       	| 1       	| IBGE/2018 	|
-|   PIB per Capita  	|  48853.53  	| reais          	| 2       	| IBGE/2018 	|
 
 
 ### Educação
@@ -57,8 +55,15 @@
 
 ### Ecônomia
 
-
-
+| Variavel                               	|     Valor    	|   Unidade  	| Posição 	|   Fonte   	|
+|----------------------------------------	|:------------:	|:----------:	|:-------:	|:---------:	|
+| Índice de Desenvolvimento Humano (IDH) 	|     0.783    	|            	|    2    	| IBGE/2010 	|
+| Receitas orçamentárias realizadas      	|  232822496.6 	| R$ (×1000) 	|    1    	| IBGE/2017 	|
+| Despesas orçamentárias empenhadas      	|  231982243.7 	| R$ (×1000) 	|    1    	| IBGE/2017 	|
+| Número de agências                     	|     7019     	|  agências  	|         	| IBGE/2016 	|
+| Total de depósitos                     	| 386252368398 	|     R$     	|         	| IBGE/2016 	|
+|        PIB        	|   2224738  	| trilhoes       	| 1       	| IBGE/2018 	|
+|   PIB per Capita  	|  48853.53  	| reais          	| 2       	| IBGE/2018 	|
 
 
 
