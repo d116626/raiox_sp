@@ -41,6 +41,20 @@
 | Número de estabelecimentos de ensino médio                	|   6492  	|   escolas  	|         	| IBGE/2018 	|
 
 
+
+
+### Trabalo e Rendimento
+| Variavel                                                                                                                                            	| Valor   	| Unidade           	| Posição 	| Fonte     	|
+|-----------------------------------------------------------------------------------------------------------------------------------------------------	|---------	|-------------------	|---------	|-----------	|
+| Rendimento nominal mensal domiciliar per capita                                                                                                     	| 1898    	| R$                	| 2       	| IBGE/2018 	|
+| Pessoas de 16 anos ou mais ocupadas na semana de referência                                                                                         	| 21268   	| pessoas   (×1000) 	| 1       	| IBGE/2016 	|
+| Proporção de pessoas de 16 anos ou mais em trabalho formal, considerando apenas as ocupadas na semana de referência                                 	| 72.4    	| %                 	| 3       	| IBGE/2016 	|
+| Proporção de pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais                                             	| 69.3    	| %                 	| 3       	| IBGE/2018 	|
+| Rendimento médio real habitual do trabalho principal das pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais 	| 3009    	| R$                	| 3       	| IBGE/2018 	|
+| Pessoal ocupado na Administração pública, defesa e seguridade social                                                                                	| 1389533 	| pessoas           	| 1       	| IBGE/2017 	|
+
+
+
 ### Ecônomia
 
 
