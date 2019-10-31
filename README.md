@@ -3,6 +3,9 @@
 ### Dados Demograficos
 - [SEADE](http://www.seade.gov.br/lista-produtos/)
 - [IBGE](https://seriesestatisticas.ibge.gov.br/lista_tema.aspx?op=0&no=10#)
+- [IBGE Panorama](https://cidades.ibge.gov.br/brasil/sp/panorama)
+
+
 - [Wikipedia Brasil](https://pt.wikipedia.org/wiki/Demografia_do_Brasil)
 - [Wikipedia São Paulo](https://pt.wikipedia.org/wiki/S%C3%A3o_Paulo_(estado)#cite_note-IBGE_Pop_2019-2)
 
@@ -25,6 +28,7 @@
 
 ### Educação
 - [Dados Abertos da Educação de SP](https://dados.educacao.sp.gov.br/search/type/dataset)
+- [QEdu](https://www.qedu.org.br/)
 
 ### Saneamento
 - 
