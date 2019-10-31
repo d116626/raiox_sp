@@ -27,5 +27,32 @@
 |   PIB per Capita  	|  48853.53  	| reais          	| 2       	| IBGE/2018 	|
 
 
+### Educação
+
+| Variavel                                                  	|  Valor  	|   Unidade  	| Posição 	|   Fonte   	|
+|-----------------------------------------------------------	|:-------:	|:----------:	|:-------:	|:---------:	|
+| IDEB – Anos iniciais do ensino fundamental (Rede pública) 	|   5.5   	|            	|    1    	| IBGE/2017 	|
+| IDEB – Anos finais do ensino fundamental (Rede pública)   	|   4.9   	|            	|    3    	| IBGE/2017 	|
+| Matrículas no ensino fundamental                          	| 5367614 	| matrículas 	|    1    	| IBGE/2018 	|
+| Matrículas no ensino médio                                	| 1640170 	| matrículas 	|    1    	| IBGE/2018 	|
+| Docentes no ensino fundamental                            	|  276171 	|  docentes  	|         	| IBGE/2018 	|
+| Docentes no ensino médio                                  	|  113370 	|  docentes  	|         	| IBGE/2018 	|
+| Número de estabelecimentos de ensino fundamental          	|  15112  	|   escolas  	|         	| IBGE/2018 	|
+| Número de estabelecimentos de ensino médio                	|   6492  	|   escolas  	|         	| IBGE/2018 	|
+
+
+### Ecônomia
+
+
+
+
+
+
+
+
+
+
+
+
 
 
