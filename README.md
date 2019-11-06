@@ -1,5 +1,9 @@
 # Raio-X do estado de São Paulo
 
+### Geral
+- [ODS](https://odsbrasil.gov.br/objetivo/objetivo?n=3)
+
+
 ### Dados Demograficos
 - [SEADE](http://www.seade.gov.br/lista-produtos/)
 - [IBGE](https://seriesestatisticas.ibge.gov.br/lista_tema.aspx?op=0&no=10#)
