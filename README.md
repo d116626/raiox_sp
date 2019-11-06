@@ -1,4 +1,4 @@
-# Raio-X do estado de São Paulo
+# Raio-X do Estado de São Paulo
 
 ### Geral
 - [ODS](https://odsbrasil.gov.br/objetivo/objetivo?n=3)
